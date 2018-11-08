@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1256939778420030}
+  m_IsPrefabParent: 1
+--- !u!1 &1256939778420030
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4733452809582194}
+  - component: {fileID: 114832517442094306}
+  - component: {fileID: 23674882311200864}
+  - component: {fileID: 33499450574391276}
+  - component: {fileID: 60773433553117550}
+  m_Layer: 9
+  m_Name: Tronco2Deform
+  m_TagString: Ground
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4733452809582194
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1256939778420030}
+  m_LocalRotation: {x: -0, y: -0, z: -0.5524531, w: 0.833544}
+  m_LocalPosition: {x: 36.881, y: 0.61, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -67.07101}
+--- !u!23 &23674882311200864
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1256939778420030}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: 5e919c3775440734ea05385c34477e2b, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: -3
+--- !u!33 &33499450574391276
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1256939778420030}
+  m_Mesh: {fileID: 0}
+--- !u!60 &60773433553117550
+PolygonCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1256939778420030}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_Offset: {x: 0, y: 0}
+  m_Points:
+    m_Paths:
+    - - {x: 0.38, y: 1.74}
+      - {x: 0.36, y: 0.53305435}
+      - {x: 0.34, y: -1.72}
+      - {x: -0.34, y: -2.1}
+      - {x: -0.33, y: 2.03}
+--- !u!114 &114832517442094306
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1256939778420030}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 430f35c7d05e09f4dbe8ec53789c9e53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  borderPaths:
+  - points: 01000000000000000200000003000000
+  editorProps:
+    boundsEditorMode: 1
+    pivot: {x: 0, y: 0}
+    oriant: 0
+    mainToolBar: 0
+    selectedPoints: []
+    serelizableSelectedPoints: 
+    inversGizmos: 0
+    generateColliderInEditor: 0
+    paintColor: {r: 1, g: 1, b: 1, a: 1}
+    autoFreezeScale: 0
+    savePivot: 0
+    selectShape: 0
+  _sprite: {fileID: 21300034, guid: 62e75fd2c3d3fe64b8fb5c51d33bebc7, type: 3}
+  _points:
+  - _countOfOfsset: 1
+    _index: 0
+    spritePosition: {x: 0, y: 1}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    normal: {x: 0, y: 0, z: 0}
+    name: point
+    offsets:
+    - {x: 0, y: 0, z: 0}
+    colliderOffset: {x: 0, y: 0}
+    id: 1
+  - _countOfOfsset: 1
+    _index: 0
+    spritePosition: {x: 0, y: 0}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    normal: {x: 0, y: 0, z: 0}
+    name: point
+    offsets:
+    - {x: 0, y: 0, z: 0}
+    colliderOffset: {x: 0, y: 0}
+    id: 2
+  - _countOfOfsset: 1
+    _index: 0
+    spritePosition: {x: 1, y: 1}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    normal: {x: 0, y: 0, z: 0}
+    name: point
+    offsets:
+    - {x: 0, y: 0, z: 0}
+    colliderOffset: {x: 0, y: 0}
+    id: 3
+  - _countOfOfsset: 1
+    _index: 0
+    spritePosition: {x: 1, y: 0}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    normal: {x: 0, y: 0, z: 0}
+    name: point
+    offsets:
+    - {x: 0, y: 0, z: 0}
+    colliderOffset: {x: 0, y: 0}
+    id: 4
+  _bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0.35, y: 1.725, z: 0.5}
+  mesh: {fileID: 0}
+  _triangulateWithOffsetPosition: 0
+  mesh_uvs:
+  - {x: 0.86706585, y: 0.7966942}
+  - {x: 0.86706585, y: 0.22644629}
+  - {x: 0.9508982, y: 0.7966942}
+  - {x: 0.9508982, y: 0.22644629}
+  mesh_vertecs:
+  - {x: -0.35, y: 1.725, z: 0}
+  - {x: -0.35, y: -1.725, z: 0}
+  - {x: 0.35, y: 1.725, z: 0}
+  - {x: 0.35, y: -1.725, z: 0}
+  mesh_triangles: 030000000100000002000000020000000100000000000000
+  mesh_normals:
+  - {x: 0, y: 0, z: 1}
+  - {x: 0, y: 0, z: 1}
+  - {x: 0, y: 0, z: 1}
+  - {x: 0, y: 0, z: 1}
+  mesh_colors:
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  _scale: {x: 1, y: 1}
+  edgeSerializations:
+  - point1Index: 0
+    point2index: 2
+  - point1Index: 2
+    point2index: 3
+  - point1Index: 3
+    point2index: 1
+  - point1Index: 1
+    point2index: 0
+  lastID: 4
+  minimumTimeToUpdate: 0
+  _generateColliderInRunTime: 0
+  _referenceMaterial: {fileID: 0}

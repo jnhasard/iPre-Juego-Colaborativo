@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3c08a792d0e5cc842a37dd339c927fdd
+timeCreated: 1516765728
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Pixelate
+  fontNames:
+  - SF Pixelate
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 33f5ec4b09be54346aa6f2134f491626, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1163 @@
+fileFormatVersion: 2
+guid: 57be59aba1adb7049a0c948e969b2279
+timeCreated: 1500336168
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Jugadores_0
+    21300002: Jugadores_1
+    21300004: Jugadores_2
+    21300006: Jugadores_3
+    21300008: Jugadores_4
+    21300010: Jugadores_5
+    21300012: Jugadores_6
+    21300014: Jugadores_7
+    21300016: Jugadores_8
+    21300018: Jugadores_9
+    21300020: Jugadores_10
+    21300022: Jugadores_11
+    21300024: Jugadores_12
+    21300026: Jugadores_13
+    21300028: Jugadores_14
+    21300030: Jugadores_15
+    21300032: Jugadores_16
+    21300034: Jugadores_17
+    21300036: Jugadores_18
+    21300038: Jugadores_19
+    21300040: Jugadores_20
+    21300042: Jugadores_21
+    21300044: Jugadores_22
+    21300046: Jugadores_23
+    21300048: Jugadores_24
+    21300050: Jugadores_25
+    21300052: Jugadores_26
+    21300054: Jugadores_27
+    21300056: Jugadores_28
+    21300058: Jugadores_29
+    21300060: Jugadores_30
+    21300062: Jugadores_31
+    21300064: Jugadores_32
+    21300066: Jugadores_33
+    21300068: Jugadores_34
+    21300070: Jugadores_35
+    21300072: Jugadores_36
+    21300074: Jugadores_37
+    21300076: Jugadores_38
+    21300078: Jugadores_39
+    21300080: Jugadores_40
+    21300082: Jugadores_41
+    21300084: Jugadores_42
+    21300086: Jugadores_43
+    21300088: Jugadores_44
+    21300090: Jugadores_45
+    21300092: Jugadores_46
+    21300094: Jugadores_47
+    21300096: Jugadores_48
+    21300098: Jugadores_49
+    21300100: Jugadores_50
+    21300102: Jugadores_51
+    21300104: Jugadores_52
+    21300106: Jugadores_53
+    21300108: Jugadores_54
+    21300110: Jugadores_55
+    21300112: Jugadores_56
+    21300114: Jugadores_57
+    21300116: Jugadores_58
+    21300118: Jugadores_59
+    21300120: Jugadores_60
+    21300122: Jugadores_61
+    21300124: Jugadores_62
+    21300126: Jugadores_63
+    21300128: Jugadores_64
+    21300130: Jugadores_65
+    21300132: Jugadores_66
+    21300134: Jugadores_67
+    21300136: Jugadores_68
+    21300138: Jugadores_69
+    21300140: Jugadores_70
+    21300142: Jugadores_71
+    21300144: Jugadores_72
+    21300146: Jugadores_73
+    21300148: Jugadores_74
+    21300150: Jugadores_75
+    21300152: Jugadores_76
+    21300154: Jugadores_77
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jugadores_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 213
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 213
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 213
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 213
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_4
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 213
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 213
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 213
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 213
+        width: 24
+        height: 21
+      alignment: 9
+      pivot: {x: 0.4194317, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_8
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 213
+        width: 30
+        height: 21
+      alignment: 9
+      pivot: {x: 0.31822306, y: 0.49999928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_10
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 213
+        width: 25
+        height: 21
+      alignment: 9
+      pivot: {x: 0.405802, y: 0.48465037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_11
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 213
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_12
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 213
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_13
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 213
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_14
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 213
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_15
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 213
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_16
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 213
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_17
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 221
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 182
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 182
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_20
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 182
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_21
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 182
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_22
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 182
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 182
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_24
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 182
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 182
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_26
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 182
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_27
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 182
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_28
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 182
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_29
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 182
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_30
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 182
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_31
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 182
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_32
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 182
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_33
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 182
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_34
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 150
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_35
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 150
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_36
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 150
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_37
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 150
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_38
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 150
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_39
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 150
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_40
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 150
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_41
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 150
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_42
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 150
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_43
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 150
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_44
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 150
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_45
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 150
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_46
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 150
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_47
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 150
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_48
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 150
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_49
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 150
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_50
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 157
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_52
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 98
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 98
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_54
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 98
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_55
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 98
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_56
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 98
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_57
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 98
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_58
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 98
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_59
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 98
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_61
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 50
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 50
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_63
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 50
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_64
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 50
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_65
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 50
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_66
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 50
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_67
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 50
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_68
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 50
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_70
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_71
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_72
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_73
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_74
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_75
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_76
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jugadores_77
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

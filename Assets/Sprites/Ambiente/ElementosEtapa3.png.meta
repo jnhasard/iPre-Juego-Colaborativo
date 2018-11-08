@@ -1,0 +1,1366 @@
+fileFormatVersion: 2
+guid: 2dfe312e294b87b4cb57bbeffdf809d0
+timeCreated: 1504832693
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ElementosEtapa3_0
+    21300002: ElementosEtapa3_1
+    21300004: ElementosEtapa3_2
+    21300006: ElementosEtapa3_3
+    21300008: ElementosEtapa3_4
+    21300010: ElementosEtapa3_5
+    21300012: ElementosEtapa3_6
+    21300014: ElementosEtapa3_7
+    21300016: ElementosEtapa3_8
+    21300018: ElementosEtapa3_9
+    21300020: Geiser
+    21300022: ElementosEtapa3_11
+    21300024: ElementosEtapa3_12
+    21300026: ElementosEtapa3_13
+    21300028: ElementosEtapa3_14
+    21300030: ElementosEtapa3_15
+    21300032: ElementosEtapa3_16
+    21300034: ElementosEtapa3_17
+    21300036: ElementosEtapa3_18
+    21300038: ElementosEtapa3_19
+    21300040: ElementosEtapa3_20
+    21300042: MultipleGeiser
+    21300044: MultipleGeiserPlat
+    21300046: ElementosEtapa3_23
+    21300048: ElementosEtapa3_24
+    21300050: ElementosEtapa3_25
+    21300052: ElementosEtapa3_26
+    21300054: ElementosEtapa3_27
+    21300056: ElementosEtapa3_28
+    21300058: ElementosEtapa3_29
+    21300060: ElementosEtapa3_30
+    21300062: ElementosEtapa3_31
+    21300064: ElementosEtapa3_32
+    21300066: ElementosEtapa3_33
+    21300068: ElementosEtapa3_34
+    21300070: ElementosEtapa3_35
+    21300072: ElementosEtapa3_36
+    21300074: ElementosEtapa3_37
+    21300076: ElementosEtapa3_38
+    21300078: ElementosEtapa3_39
+    21300080: ElementosEtapa3_40
+    21300082: ElementosEtapa3_41
+    21300084: ElementosEtapa3_42
+    21300086: ElementosEtapa3_43
+    21300088: ElementosEtapa3_44
+    21300090: ElementosEtapa3_45
+    21300092: ElementosEtapa3_46
+    21300094: ElementosEtapa3_47
+    21300096: ElementosEtapa3_48
+    21300098: ElementosEtapa3_49
+    21300100: ElementosEtapa3_50
+    21300102: ElementosEtapa3_51
+    21300104: ElementosEtapa3_52
+    21300106: ElementosEtapa3_53
+    21300108: ElementosEtapa3_54
+    21300110: ElementosEtapa3_55
+    21300112: ElementosEtapa3_56
+    21300114: ElementosEtapa3_57
+    21300116: ElementosEtapa3_58
+    21300118: ElementosEtapa3_59
+    21300120: ElementosEtapa3_60
+    21300122: ElementosEtapa3_61
+    21300124: ElementosEtapa3_62
+    21300126: ElementosEtapa3_63
+    21300128: ElementosEtapa3_64
+    21300130: ElementosEtapa3_65
+    21300132: ElementosEtapa3_66
+    21300134: ElementosEtapa3_67
+    21300136: ElementosEtapa3_68
+    21300138: ElementosEtapa3_69
+    21300140: ElementosEtapa3_70
+    21300142: ElementosEtapa3_71
+    21300144: ElementosEtapa3_72
+    21300146: ElementosEtapa3_73
+    21300148: ElementosEtapa3_74
+    21300150: ElementosEtapa3_75
+    21300152: ElementosEtapa3_76
+    21300154: ElementosEtapa3_77
+    21300156: ElementosEtapa3_78
+    21300158: ElementosEtapa3_79
+    21300160: ElementosEtapa3_80
+    21300162: ElementosEtapa3_81
+    21300164: ElementosEtapa3_82
+    21300166: ElementosEtapa3_83
+    21300168: ElementosEtapa3_84
+    21300170: ElementosEtapa3_85
+    21300172: ElementosEtapa3_86
+    21300174: ElementosEtapa3_87
+    21300176: ElementosEtapa3_88
+    21300178: ElementosEtapa3_89
+    21300180: ElementosEtapa3_90
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ElementosEtapa3_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 539
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 539
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 539
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_3
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 539
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_4
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 539
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 539
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_6
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 539
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_7
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 539
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_8
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 539
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_9
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 539
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Geiser
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 541
+        width: 133
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_11
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 456
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_12
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 456
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 456
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_14
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 456
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_15
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 456
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_16
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 456
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_17
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 456
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_18
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 456
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_19
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 456
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_20
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 456
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MultipleGeiser
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 244
+        width: 263
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MultipleGeiserPlat
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 244
+        width: 263
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_23
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 372
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_24
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 372
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_25
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 372
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_26
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 372
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_27
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 372
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_28
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 372
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_29
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 372
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_30
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 372
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_31
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 372
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_32
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 372
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_33
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 289
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_34
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 289
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_35
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 289
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_36
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 289
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_37
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 289
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_38
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 289
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_39
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 289
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_40
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 289
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_41
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 289
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_42
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 289
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_43
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 178
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_44
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 178
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_45
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 178
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_46
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 215
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_47
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 215
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_48
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 215
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_49
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 199
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_50
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 199
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_51
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 199
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_52
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 120
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_53
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 127
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_54
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 83
+        width: 40
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_55
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 158
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_56
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 161
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_57
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 140
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_58
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 140
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_59
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 140
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_60
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 140
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_61
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 138
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_62
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 138
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_63
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 115
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_64
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 121
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_65
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 108
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_66
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 108
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_67
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 108
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_68
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 108
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_69
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 108
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_70
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 108
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_71
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 100
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_72
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 100
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_73
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 100
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_74
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 100
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_75
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 74
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_76
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 74
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_77
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 55
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_78
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 64
+        width: 63
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_79
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 60
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_80
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 60
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_81
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 60
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_82
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 60
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_83
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 19
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_84
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 12
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_85
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 12
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_86
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 12
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_87
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 12
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_88
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 12
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_89
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 12
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElementosEtapa3_90
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 12
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

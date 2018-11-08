@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - whatIsGround
+  - LevelManager
+  - ChatZone
+  - MovingPlatform
+  - PickUpItems
+  - SwitchManager
+  - ParticulasEngin
+  - ExperienceItem
+  - Test
+  - Enemy
+  - ParticulaMuere
+  - Kanvas
+  - Destroyable
+  - SwitchMovingObject
+  - LavaCascade1
+  - CajaSwitchFierro
+  - LavaCascade2
+  - ActivablePower
+  - DeactivateOnStart
+  - LavaCascade0
+  - BurnableBranches1
+  - LavaCascade3Final
+  - Poi
+  - KillPlane
+  - Checkpoint
+  - JumpButton
+  - OriginalCanvas
+  - OriginalTextCanvas
+  - ChatCanvas
+  - RoomManager
+  - Fireball
+  - Punch
+  - Arrow
+  - ArbolCaida
+  - rocaCaida
+  - RejaRocaEng
+  - SujetaRoca
+  - KillPlaneSpikes
+  - Agua
+  - "RocaGiganteAra\xF1a"
+  - openPathSub
+  - RuneSlot
+  - DeactivableKillPlane
+  - LavaCascade4
+  - ChangableLava2
+  - LavaCascade3
+  - BurnableBranches2
+  - LavaFalling
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Ground
+  - Player
+  - Particles
+  - Attacks
+  - AttackReceipers
+  - DestroyableGround
+  - Enemies
+  - PlayersWithNoEnemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2751096327
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Suelo
+    uniqueID: 3817540167
+    locked: 0
+  - name: Player
+    uniqueID: 2397370425
+    locked: 0
+  - name: OverPlayer
+    uniqueID: 4129440599
+    locked: 0
